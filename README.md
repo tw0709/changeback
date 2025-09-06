@@ -4,5 +4,3 @@
 ---
 + 부원중학교만 프로그램 사용 허가됩니다.
 > 곧 전국에서 사용할 수 있게 하겠습니다. 잠시 기다려주세요.
-+ thanks for hegelty
-> [주요 사용 라이브러리](https://github.com/hegelty/pycomcigan)
