@@ -10,5 +10,6 @@
 
 <img src="https://raw.githubusercontent.com/tw0709/changeback/main/temp.jpg" width="960" height="540">
 예시 작동 사진입니다. (설정값 : 부원중학교 1학년 1반)
+
 > [!CAUTION]
 디컴파일, 코드 무단 사용, 아이콘 무단 사용은 금지되며, 설치 파일을 다운로드받는것은 이 사항에 동의하는 것으로 간주합니다.
